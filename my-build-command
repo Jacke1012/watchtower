@@ -1,0 +1,1 @@
+docker build -f dockerfiles/Dockerfile.dev-self-contained -t docker.io/jacke1012/finance:watchtower .
